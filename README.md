@@ -5,6 +5,7 @@
 <div>
   <a href="https://github.com/Leticiamelgar">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Leticiamelgar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <p><\br></p>
   <img height = "110em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiamelgar&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
