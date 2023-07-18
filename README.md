@@ -1,7 +1,5 @@
 ### Olá! Eu sou Letícia Melgar 👋
 
-
-- 🔭 Atualmente estou trabalhando com implantação de software
 - 🌱 Estou cursando Sistemas de Informação na UFJF
 
 <div>
