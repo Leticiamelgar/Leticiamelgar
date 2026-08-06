@@ -1,6 +1,6 @@
 # Olá, eu sou a Letícia Melgar! 👋
 
-!['Banner'](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Let%C3%ADcia%20Melgar&fontSize=40&animation=fadeIn&fontAlignY=38)
+!['Banner'](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Let%C3%ADcia%20Melgar&fontSize=40&animation=fadeIn&fontAlignY=38)
 
 ### 🚀 Sobre Mim
 * 🎓 Graduanda em **Sistemas de Informação pela Universidade Federal de Juiz de Fora (UFJF).
@@ -28,14 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leticiamelgar&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiamelgar&layout=compact&theme=radial" alt="Linguagens mais usadas" height="175"/>
-</div>
 
 ---
 
