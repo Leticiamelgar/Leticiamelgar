@@ -1,6 +1,6 @@
 # Olá, eu sou a Letícia Melgar! 👋
 
-!['Banner'](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Let%C3%ADcia%20Melgar&fontSize=40&animation=fadeIn&fontAlignY=38)
+!['Banner'](https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=200&section=header&text=Let%C3%ADcia%20Melgar&fontSize=40&animation=fadeIn&fontAlignY=38)
 
 ### 🚀 Sobre Mim
 * 🎓 Graduanda em **Sistemas de Informação pela Universidade Federal de Juiz de Fora (UFJF).
