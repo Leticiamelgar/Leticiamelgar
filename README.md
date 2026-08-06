@@ -1,6 +1,6 @@
-# Olá, eu sou a Letícia Melgar! 👋
+# Olá, eu sou a Letícia Melgar! 👋🌱
 
-!['Banner'](https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=200&section=header&text=Let%C3%ADcia%20Melgar&fontSize=40&animation=fadeIn&fontAlignY=38)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F687FA,50:C457D9,100:6338EE,&height=200&section=header&text=Let%C3%ADcia%20Melgar&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" />
 
 ### 🚀 Sobre Mim
 * 🎓 Graduanda em **Sistemas de Informação pela Universidade Federal de Juiz de Fora (UFJF).
@@ -12,7 +12,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens de Programação & Web:**
+**Linguagens de Programação & Web:** <br> 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -20,11 +20,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Banco de Dados:**
+**Banco de Dados:** <br> 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Ferramentas & Controle de Versão:**
+**Ferramentas & Controle de Versão:** <br> 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
